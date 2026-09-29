@@ -3,6 +3,8 @@
 Đưa một AI agent từ `localhost:8000` lên một địa chỉ công khai mà người khác
 gọi được, có bảo mật, có giới hạn chi phí, và không sập khi bạn deploy bản mới.
 
+![CI](https://github.com/dphieu/K4-L3B-DAY12-DuongPhuongHieu-L3B202603008-CloudServicesAndDeployment/actions/workflows/ci.yml/badge.svg)
+
 ---
 
 ## ⚠️ Bài Làm Cá Nhân
