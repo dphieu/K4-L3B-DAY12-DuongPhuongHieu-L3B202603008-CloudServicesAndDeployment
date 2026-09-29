@@ -10,9 +10,9 @@
 
 | Mục | Nội dung |
 |-----|----------|
-| Họ và tên | (điền họ tên) |
-| Mã học viên | (điền mã học viên) |
-| Repo | (điền link repo K4-L3B-DAY12-HoVaTen-MSSV-CloudServicesAndDeployment) |
+| Họ và tên | Dương Phương Hiếu |
+| Mã học viên | L3B202603008 |
+| Repo | https://github.com/dphieu/K4-L3B-DAY12-DuongPhuongHieu-L3B202603008-CloudServicesAndDeployment |
 
 ## Service
 

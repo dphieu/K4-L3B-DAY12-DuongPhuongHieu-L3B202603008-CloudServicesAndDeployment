@@ -11,6 +11,8 @@ services:
     plan: free
     healthCheckPath: /health
     envVars:
+      - key: PORT
+        value: "10000"
       - key: AGENT_API_KEY
         sync: false
       - key: LOG_LEVEL
@@ -22,10 +24,10 @@ services:
       - key: REDIS_URL
         fromService:
           name: day12-redis
-          type: redis
+          type: keyvalue
           property: connectionString
 
-  - type: redis
+  - type: keyvalue
     name: day12-redis
     plan: free
     ipAllowList: []
